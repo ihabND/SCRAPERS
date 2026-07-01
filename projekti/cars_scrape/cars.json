@@ -1,0 +1,3501 @@
+[
+  {
+    "id": 1,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1983",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "81",
+    "country": "Germany",
+    "mileage_KM": "119395",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "268210",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Italian",
+      "JDM",
+      "Manual"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1983-1.avif"
+  },
+  {
+    "id": 2,
+    "brand": "Mercedes-Benz",
+    "model": "W123 280E",
+    "year": "1972",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "391",
+    "country": "Germany",
+    "mileage_KM": "31412",
+    "condition": "Driver",
+    "body": "Hatchback",
+    "availabilty": "Reserved",
+    "price_EUR": "157569",
+    "rating": "4",
+    "seller": "Classic Cars AUS",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Rally",
+      "Collector",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-W123-280E-1972-1.avif"
+  },
+  {
+    "id": 3,
+    "brand": "Nissan",
+    "model": "300ZX Z31",
+    "year": "1966",
+    "engine": "I4",
+    "drivetrain": "FWD",
+    "power_HP": "445",
+    "country": "Japan",
+    "mileage_KM": "134738",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "104195",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Rally",
+      "Classic",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-300ZX-Z31-1966-1.avif"
+  },
+  {
+    "id": 4,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": "1984",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "353",
+    "country": "Italy",
+    "mileage_KM": "141828",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "277672",
+    "rating": "1",
+    "seller": "Classic Cars EU",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Rare",
+      "JDM",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-F40-1984-1.avif"
+  },
+  {
+    "id": 5,
+    "brand": "Mercedes-Benz",
+    "model": "W123 280E",
+    "year": "1955",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "245",
+    "country": "United Kingdom",
+    "mileage_KM": "104338",
+    "condition": "Project",
+    "body": "Hatchback",
+    "availabilty": "Available: 1",
+    "price_EUR": "228511",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "Restored",
+      "German",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-W123-280E-1955-1.avif"
+  },
+  {
+    "id": 6,
+    "brand": "BMW",
+    "model": "E24 635CSi",
+    "year": "1954",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "122",
+    "country": "Germany",
+    "mileage_KM": "189886",
+    "condition": "Driver",
+    "body": "Hatchback",
+    "availabilty": "Reserved",
+    "price_EUR": "18457",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Rare",
+      "Classic",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E24-635CSi-1954-1.avif"
+  },
+  {
+    "id": 7,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": "1980",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "277",
+    "country": "Germany",
+    "mileage_KM": "73759",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 3",
+    "price_EUR": "273100",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Restored",
+      "Classic",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-911-Carrera-1980-1.avif"
+  },
+  {
+    "id": 8,
+    "brand": "Ford",
+    "model": "GT40",
+    "year": "1973",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "490",
+    "country": "Italy",
+    "mileage_KM": "212581",
+    "condition": "Concours",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "235600",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Restored",
+      "Italian",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-GT40-1973-1.avif"
+  },
+  {
+    "id": 9,
+    "brand": "Toyota",
+    "model": "MR2 AW11",
+    "year": "1969",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "247",
+    "country": "Japan",
+    "mileage_KM": "150555",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "91619",
+    "rating": "3",
+    "seller": "Classic Cars AUS",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "Restored",
+      "Italian",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-MR2-AW11-1969-1.avif"
+  },
+  {
+    "id": 10,
+    "brand": "Toyota",
+    "model": "2000GT",
+    "year": "1970",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "87",
+    "country": "Germany",
+    "mileage_KM": "182543",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Available: 5",
+    "price_EUR": "152646",
+    "rating": "4",
+    "seller": "Classic Cars AUS",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Italian",
+      "Collector",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-2000GT-1970-1.avif"
+  },
+  {
+    "id": 11,
+    "brand": "Ferrari",
+    "model": "308 GTS",
+    "year": "1970",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "177",
+    "country": "Japan",
+    "mileage_KM": "213735",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Available: 5",
+    "price_EUR": "153699",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "V8",
+      "Manual",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-308-GTS-1970-1.avif"
+  },
+  {
+    "id": 12,
+    "brand": "Nissan",
+    "model": "300ZX Z31",
+    "year": "1978",
+    "engine": "Flat-6",
+    "drivetrain": "FWD",
+    "power_HP": "338",
+    "country": "Japan",
+    "mileage_KM": "160903",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Available: 2",
+    "price_EUR": "174281",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Rally",
+      "Collector",
+      "Manual"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-300ZX-Z31-1978-1.avif"
+  },
+  {
+    "id": 13,
+    "brand": "BMW",
+    "model": "2002",
+    "year": "1978",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "109",
+    "country": "Italy",
+    "mileage_KM": "181589",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "336315",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Rare",
+      "JDM",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-2002-1978-1.avif"
+  },
+  {
+    "id": 14,
+    "brand": "Nissan",
+    "model": "Fairlady Z (S30)",
+    "year": "1962",
+    "engine": "V8",
+    "drivetrain": "RWD",
+    "power_HP": "88",
+    "country": "Japan",
+    "mileage_KM": "17872",
+    "condition": "Restored",
+    "body": "Sedan",
+    "availabilty": "Available: 2",
+    "price_EUR": "125955",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Rally",
+      "Classic",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-Fairlady-Z-(S30)-1962-1.avif"
+  },
+  {
+    "id": 15,
+    "brand": "Ford",
+    "model": "GT40",
+    "year": "1952",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "212",
+    "country": "United States",
+    "mileage_KM": "152565",
+    "condition": "Driver",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "333273",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "German",
+      "V8",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-GT40-1952-1.avif"
+  },
+  {
+    "id": 16,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1986",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "247",
+    "country": "United Kingdom",
+    "mileage_KM": "27784",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 4",
+    "price_EUR": "314641",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Collector",
+      "Classic",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1986-1.avif"
+  },
+  {
+    "id": 17,
+    "brand": "Toyota",
+    "model": "AE86 Sprinter Trueno",
+    "year": "1954",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "103",
+    "country": "United Kingdom",
+    "mileage_KM": "114768",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "170136",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "Italian",
+      "Manual",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-AE86-Sprinter-Trueno-1954-1.avif"
+  },
+  {
+    "id": 18,
+    "brand": "Porsche",
+    "model": "928 S4",
+    "year": "1973",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "436",
+    "country": "United Kingdom",
+    "mileage_KM": "167070",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Available: 4",
+    "price_EUR": "130792",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "Rally",
+      "Italian",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-928-S4-1973-1.avif"
+  },
+  {
+    "id": 19,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1975",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "202",
+    "country": "Japan",
+    "mileage_KM": "90515",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Available: 1",
+    "price_EUR": "196170",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Restored",
+      "Classic",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1975-1.avif"
+  },
+  {
+    "id": 20,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1955",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "510",
+    "country": "United Kingdom",
+    "mileage_KM": "241170",
+    "condition": "Concours",
+    "body": "Sedan",
+    "availabilty": "Available: 4",
+    "price_EUR": "122977",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "Restored",
+      "Collector",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1955-1.avif"
+  },
+  {
+    "id": 21,
+    "brand": "BMW",
+    "model": "E28 535i",
+    "year": "1970",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "287",
+    "country": "Japan",
+    "mileage_KM": "73208",
+    "condition": "Restored",
+    "body": "Sedan",
+    "availabilty": "Available: 3",
+    "price_EUR": "126154",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Italian",
+      "Rare",
+      "Manual"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E28-535i-1970-1.avif"
+  },
+  {
+    "id": 22,
+    "brand": "Porsche",
+    "model": "944 Turbo",
+    "year": "1952",
+    "engine": "I4",
+    "drivetrain": "AWD",
+    "power_HP": "484",
+    "country": "United Kingdom",
+    "mileage_KM": "106892",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "330964",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Classic",
+      "Manual",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-944-Turbo-1952-1.avif"
+  },
+  {
+    "id": 23,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": "1953",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "258",
+    "country": "Germany",
+    "mileage_KM": "130205",
+    "condition": "Driver",
+    "body": "Coupe",
+    "availabilty": "Available: 4",
+    "price_EUR": "44553",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Rare",
+      "German",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-F40-1953-1.avif"
+  },
+  {
+    "id": 24,
+    "brand": "Porsche",
+    "model": "944 Turbo",
+    "year": "1956",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "83",
+    "country": "United States",
+    "mileage_KM": "131662",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "81049",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Rally",
+      "Manual",
+      "Restored"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-944-Turbo-1956-1.avif"
+  },
+  {
+    "id": 25,
+    "brand": "BMW",
+    "model": "E30 M3",
+    "year": "1975",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "220",
+    "country": "Italy",
+    "mileage_KM": "186306",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Available: 2",
+    "price_EUR": "347873",
+    "rating": "1",
+    "seller": "Classic Cars AUS",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Rare",
+      "Restored",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E30-M3-1975-1.avif"
+  },
+  {
+    "id": 26,
+    "brand": "Mercedes-Benz",
+    "model": "SL 560",
+    "year": "1963",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "349",
+    "country": "Japan",
+    "mileage_KM": "84909",
+    "condition": "Project",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "140819",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Restored",
+      "Rare",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-SL-560-1963-1.avif"
+  },
+  {
+    "id": 27,
+    "brand": "BMW",
+    "model": "E28 535i",
+    "year": "1968",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "504",
+    "country": "United Kingdom",
+    "mileage_KM": "44686",
+    "condition": "Driver",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "349488",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Collector",
+      "JDM",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E28-535i-1968-1.avif"
+  },
+  {
+    "id": 28,
+    "brand": "Mercedes-Benz",
+    "model": "SEC 500",
+    "year": "1962",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "86",
+    "country": "Germany",
+    "mileage_KM": "189478",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "177703",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Manual",
+      "German",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-SEC-500-1962-1.avif"
+  },
+  {
+    "id": 29,
+    "brand": "Ford",
+    "model": "Mustang Fastback",
+    "year": "1956",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "104",
+    "country": "United States",
+    "mileage_KM": "81807",
+    "condition": "Concours",
+    "body": "Coupe",
+    "availabilty": "Available: 3",
+    "price_EUR": "86503",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "Restored",
+      "Manual",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Mustang-Fastback-1956-1.avif"
+  },
+  {
+    "id": 30,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": "1953",
+    "engine": "V8",
+    "drivetrain": "RWD",
+    "power_HP": "366",
+    "country": "Germany",
+    "mileage_KM": "203308",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Available: 4",
+    "price_EUR": "303295",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "German",
+      "Rally",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-911-Carrera-1953-1.avif"
+  },
+  {
+    "id": 31,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1982",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "345",
+    "country": "United Kingdom",
+    "mileage_KM": "236555",
+    "condition": "Restored",
+    "body": "Hatchback",
+    "availabilty": "Sold",
+    "price_EUR": "235621",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Collector",
+      "Classic",
+      "Manual"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1982-1.avif"
+  },
+  {
+    "id": 32,
+    "brand": "Ford",
+    "model": "GT40",
+    "year": "1961",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "334",
+    "country": "Japan",
+    "mileage_KM": "193161",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 2",
+    "price_EUR": "69904",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "JDM",
+      "V8",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-GT40-1961-1.avif"
+  },
+  {
+    "id": 33,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1980",
+    "engine": "I6",
+    "drivetrain": "AWD",
+    "power_HP": "263",
+    "country": "United States",
+    "mileage_KM": "25622",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 1",
+    "price_EUR": "107513",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Rare",
+      "German",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1980-1.avif"
+  },
+  {
+    "id": 34,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": "1951",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "501",
+    "country": "United Kingdom",
+    "mileage_KM": "156165",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "209858",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Rally",
+      "V8",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-F40-1951-1.avif"
+  },
+  {
+    "id": 35,
+    "brand": "Ferrari",
+    "model": "250 GT",
+    "year": "1959",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "390",
+    "country": "Italy",
+    "mileage_KM": "115751",
+    "condition": "Concours",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "290422",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "Restored",
+      "Italian",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-250-GT-1959-1.avif"
+  },
+  {
+    "id": 36,
+    "brand": "Porsche",
+    "model": "944 Turbo",
+    "year": "1982",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "401",
+    "country": "United Kingdom",
+    "mileage_KM": "130019",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 3",
+    "price_EUR": "17747",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Collector",
+      "Italian",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-944-Turbo-1982-1.avif"
+  },
+  {
+    "id": 37,
+    "brand": "Ford",
+    "model": "GT40",
+    "year": "1972",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "302",
+    "country": "Italy",
+    "mileage_KM": "117717",
+    "condition": "Restored",
+    "body": "Sedan",
+    "availabilty": "Reserved",
+    "price_EUR": "48086",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Rally",
+      "Classic",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-GT40-1972-1.avif"
+  },
+  {
+    "id": 38,
+    "brand": "BMW",
+    "model": "E28 535i",
+    "year": "1978",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "473",
+    "country": "Italy",
+    "mileage_KM": "77472",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Available: 1",
+    "price_EUR": "258187",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Rare",
+      "JDM",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E28-535i-1978-1.avif"
+  },
+  {
+    "id": 39,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1980",
+    "engine": "V8",
+    "drivetrain": "AWD",
+    "power_HP": "504",
+    "country": "Italy",
+    "mileage_KM": "55820",
+    "condition": "Driver",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "204109",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Rally",
+      "Rare",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1980-1.avif"
+  },
+  {
+    "id": 40,
+    "brand": "Jaguar",
+    "model": "E-Type",
+    "year": "1957",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "448",
+    "country": "United Kingdom",
+    "mileage_KM": "129496",
+    "condition": "Concours",
+    "body": "Coupe",
+    "availabilty": "Available: 1",
+    "price_EUR": "208036",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "Classic",
+      "Italian",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-E-Type-1957-1.avif"
+  },
+  {
+    "id": 41,
+    "brand": "Nissan",
+    "model": "300ZX Z31",
+    "year": "1976",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "243",
+    "country": "Italy",
+    "mileage_KM": "197971",
+    "condition": "Concours",
+    "body": "Sedan",
+    "availabilty": "Available: 2",
+    "price_EUR": "224552",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "JDM",
+      "Collector",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-300ZX-Z31-1976-1.avif"
+  },
+  {
+    "id": 42,
+    "brand": "Nissan",
+    "model": "Fairlady Z (S30)",
+    "year": "1980",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "353",
+    "country": "United States",
+    "mileage_KM": "96463",
+    "condition": "Concours",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "239692",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "Rally",
+      "V8",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-Fairlady-Z-(S30)-1980-1.avif"
+  },
+  {
+    "id": 43,
+    "brand": "Mercedes-Benz",
+    "model": "SEC 500",
+    "year": "1981",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "148",
+    "country": "United States",
+    "mileage_KM": "65447",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "178008",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Manual",
+      "JDM",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-SEC-500-1981-1.avif"
+  },
+  {
+    "id": 44,
+    "brand": "Nissan",
+    "model": "Skyline GT-R (KPGC10)",
+    "year": "1971",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "115",
+    "country": "Italy",
+    "mileage_KM": "185735",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "264577",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "JDM",
+      "Collector",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-Skyline-GT-R-(KPGC10)-1971-1.avif"
+  },
+  {
+    "id": 45,
+    "brand": "Porsche",
+    "model": "944 Turbo",
+    "year": "1977",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "411",
+    "country": "United Kingdom",
+    "mileage_KM": "77140",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "105199",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "Italian",
+      "Restored",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-944-Turbo-1977-1.avif"
+  },
+  {
+    "id": 46,
+    "brand": "BMW",
+    "model": "E28 535i",
+    "year": "1979",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "483",
+    "country": "Japan",
+    "mileage_KM": "94772",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Available: 3",
+    "price_EUR": "346703",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Restored",
+      "German",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E28-535i-1979-1.avif"
+  },
+  {
+    "id": 47,
+    "brand": "Mercedes-Benz",
+    "model": "190E",
+    "year": "1976",
+    "engine": "Flat-6",
+    "drivetrain": "FWD",
+    "power_HP": "195",
+    "country": "United States",
+    "mileage_KM": "218705",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "281984",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "Restored",
+      "V8",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-190E-1976-1.avif"
+  },
+  {
+    "id": 48,
+    "brand": "Ferrari",
+    "model": "250 GT",
+    "year": "1969",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "470",
+    "country": "Germany",
+    "mileage_KM": "102304",
+    "condition": "Concours",
+    "body": "Coupe",
+    "availabilty": "Sold",
+    "price_EUR": "115563",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Restored",
+      "Rally",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-250-GT-1969-1.avif"
+  },
+  {
+    "id": 49,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1965",
+    "engine": "I4",
+    "drivetrain": "AWD",
+    "power_HP": "284",
+    "country": "United States",
+    "mileage_KM": "149463",
+    "condition": "Driver",
+    "body": "Coupe",
+    "availabilty": "Available: 2",
+    "price_EUR": "94414",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "JDM",
+      "Collector",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1965-1.avif"
+  },
+  {
+    "id": 50,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1966",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "404",
+    "country": "Japan",
+    "mileage_KM": "202085",
+    "condition": "Driver",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "155193",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "Rare",
+      "JDM",
+      "V8"
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1966-1.avif"
+  },
+  {
+    "id": 51,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": "1981",
+    "engine": "I4",
+    "drivetrain": "AWD",
+    "power_HP": "330",
+    "country": "Japan",
+    "mileage_KM": "203484",
+    "condition": "Driver",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "77234",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "V8",
+      "German",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-911-Carrera-1981-1.avif"
+  },
+  {
+    "id": 52,
+    "brand": "Jaguar",
+    "model": "E-Type",
+    "year": "1978",
+    "engine": "V8",
+    "drivetrain": "RWD",
+    "power_HP": "490",
+    "country": "Italy",
+    "mileage_KM": "211204",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 3",
+    "price_EUR": "349028",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "Manual",
+      "Collector",
+      "Rally"
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-E-Type-1978-1.avif"
+  },
+  {
+    "id": 53,
+    "brand": "Ferrari",
+    "model": "308 GTS",
+    "year": "1959",
+    "engine": "I4",
+    "drivetrain": "FWD",
+    "power_HP": "409",
+    "country": "United Kingdom",
+    "mileage_KM": "137225",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "329084",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "JDM",
+      "Classic",
+      "Collector"
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-308-GTS-1959-1.avif"
+  },
+  {
+    "id": 54,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": "1959",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "157",
+    "country": "United Kingdom",
+    "mileage_KM": "82731",
+    "condition": "Driver",
+    "body": "Hatchback",
+    "availabilty": "Reserved",
+    "price_EUR": "302521",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Rally",
+      "Italian",
+      "Manual"
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-F40-1959-1.avif"
+  },
+  {
+    "id": 55,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": "1965",
+    "engine": "V8",
+    "drivetrain": "AWD",
+    "power_HP": "103",
+    "country": "United Kingdom",
+    "mileage_KM": "115053",
+    "condition": "Project",
+    "body": "Hatchback",
+    "availabilty": "Available: 3",
+    "price_EUR": "293234",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Italian",
+      "Manual",
+      "German"
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-911-Carrera-1965-1.avif"
+  },
+  {
+    "id": 56,
+    "brand": "Nissan",
+    "model": "Fairlady Z (S30)",
+    "year": "1951",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "275",
+    "country": "United Kingdom",
+    "mileage_KM": "205239",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "208956",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "Collector",
+      "Restored",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-Fairlady-Z-(S30)-1951-1.avif"
+  },
+  {
+    "id": 57,
+    "brand": "Ford",
+    "model": "Mustang Fastback",
+    "year": "1962",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "350",
+    "country": "Italy",
+    "mileage_KM": "147155",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "131451",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "German",
+      "Rare",
+      "Restored"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Mustang-Fastback-1962-1.avif"
+  },
+  {
+    "id": 58,
+    "brand": "Jaguar",
+    "model": "E-Type",
+    "year": "1987",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "395",
+    "country": "Italy",
+    "mileage_KM": "142287",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "188315",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "German",
+      "Rare",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-E-Type-1987-1.avif"
+  },
+  {
+    "id": 59,
+    "brand": "Jaguar",
+    "model": "E-Type",
+    "year": "1973",
+    "engine": "V8",
+    "drivetrain": "AWD",
+    "power_HP": "392",
+    "country": "Germany",
+    "mileage_KM": "25559",
+    "condition": "Driver",
+    "body": "Hatchback",
+    "availabilty": "Sold",
+    "price_EUR": "103048",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "V8",
+      "RestoYellow",
+      "German"
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-E-Type-1973-1.avif"
+  },
+  {
+    "id": 60,
+    "brand": "Mercedes-Benz",
+    "model": "SEC 500",
+    "year": "1962",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "350",
+    "country": "Germany",
+    "mileage_KM": "229751",
+    "condition": "Restored",
+    "body": "Hatchback",
+    "availabilty": "Sold",
+    "price_EUR": "343370",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Rally",
+      "Restored",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-SEC-500-1962-1.avif"
+  },
+  {
+    "id": 61,
+    "brand": "Nissan",
+    "model": "300ZX Z31",
+    "year": "1984",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "118",
+    "country": "Japan",
+    "mileage_KM": "243270",
+    "condition": "Restored",
+    "body": "Sedan",
+    "availabilty": "Available: 2",
+    "price_EUR": "136099",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "Rare",
+      "Collector",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-300ZX-Z31-1984-1.avif"
+  },
+  {
+    "id": 62,
+    "brand": "BMW",
+    "model": "E28 535i",
+    "year": "1974",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "258",
+    "country": "Germany",
+    "mileage_KM": "155295",
+    "condition": "Driver",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "109962",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Classic",
+      "Restored",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E28-535i-1974-1.avif"
+  },
+  {
+    "id": 63,
+    "brand": "Toyota",
+    "model": "MR2 AW11",
+    "year": "1953",
+    "engine": "I6",
+    "drivetrain": "AWD",
+    "power_HP": "182",
+    "country": "United States",
+    "mileage_KM": "101124",
+    "condition": "Restored",
+    "body": "Hatchback",
+    "availabilty": "Reserved",
+    "price_EUR": "204066",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "V8",
+      "German",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-MR2-AW11-1953-1.avif"
+  },
+  {
+    "id": 64,
+    "brand": "Nissan",
+    "model": "Fairlady Z (S30)",
+    "year": "1989",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "406",
+    "country": "United States",
+    "mileage_KM": "64909",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Available: 2",
+    "price_EUR": "44895",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "V8",
+      "German",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-Fairlady-Z-(S30)-1989-1.avif"
+  },
+  {
+    "id": 65,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": "1971",
+    "engine": "V8",
+    "drivetrain": "AWD",
+    "power_HP": "454",
+    "country": "Italy",
+    "mileage_KM": "140508",
+    "condition": "Concours",
+    "body": "Sedan",
+    "availabilty": "Reserved",
+    "price_EUR": "304752",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "V8",
+      "Collector",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-F40-1971-1.avif"
+  },
+  {
+    "id": 66,
+    "brand": "Toyota",
+    "model": "AE86 Sprinter Trueno",
+    "year": "1962",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "191",
+    "country": "United Kingdom",
+    "mileage_KM": "190147",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "17872",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "V8",
+      "Classic",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-AE86-Sprinter-Trueno-1962-1.avif"
+  },
+  {
+    "id": 67,
+    "brand": "Ford",
+    "model": "GT40",
+    "year": "1990",
+    "engine": "V8",
+    "drivetrain": "AWD",
+    "power_HP": "236",
+    "country": "Japan",
+    "mileage_KM": "33861",
+    "condition": "Driver",
+    "body": "Sedan",
+    "availabilty": "Available: 2",
+    "price_EUR": "316585",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "JDM",
+      "V8",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-GT40-1990-1.avif"
+  },
+  {
+    "id": 68,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1954",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "285",
+    "country": "United States",
+    "mileage_KM": "189516",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Available: 3",
+    "price_EUR": "249295",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "Rally",
+      "Collector",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1954-1.avif"
+  },
+  {
+    "id": 69,
+    "brand": "Toyota",
+    "model": "AE86 Sprinter Trueno",
+    "year": "1952",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "342",
+    "country": "United States",
+    "mileage_KM": "234956",
+    "condition": "Restored",
+    "body": "Hatchback",
+    "availabilty": "Available: 1",
+    "price_EUR": "53714",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Classic",
+      "V8",
+      "Restored"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-AE86-Sprinter-Trueno-1952-1.avif"
+  },
+  {
+    "id": 70,
+    "brand": "Jaguar",
+    "model": "XJ-S",
+    "year": "1985",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "130",
+    "country": "Italy",
+    "mileage_KM": "130148",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "325092",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Rare",
+      "JDM",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ-S-1985-1.avif"
+  },
+  {
+    "id": 71,
+    "brand": "Ferrari",
+    "model": "250 GT",
+    "year": "1956",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "426",
+    "country": "United Kingdom",
+    "mileage_KM": "129563",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "336014",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "Collector",
+      "V8",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-250-GT-1956-1.avif"
+  },
+  {
+    "id": 72,
+    "brand": "BMW",
+    "model": "E30 M3",
+    "year": "1982",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "408",
+    "country": "United States",
+    "mileage_KM": "222858",
+    "condition": "Project",
+    "body": "Coupe",
+    "availabilty": "Available: 3",
+    "price_EUR": "178474",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Italian",
+      "V8",
+      "Restored"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E30-M3-1982-1.avif"
+  },
+  {
+    "id": 73,
+    "brand": "Ferrari",
+    "model": "250 GT",
+    "year": "1952",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "466",
+    "country": "Germany",
+    "mileage_KM": "135513",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Available: 4",
+    "price_EUR": "205986",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Classic",
+      "Rare",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-250-GT-1952-1.avif"
+  },
+  {
+    "id": 74,
+    "brand": "Mercedes-Benz",
+    "model": "W123 280E",
+    "year": "1964",
+    "engine": "V8",
+    "drivetrain": "RWD",
+    "power_HP": "111",
+    "country": "Japan",
+    "mileage_KM": "70032",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "169116",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Restored",
+      "Manual",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-W123-280E-1964-1.avif"
+  },
+  {
+    "id": 75,
+    "brand": "Nissan",
+    "model": "300ZX Z31",
+    "year": "1970",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "330",
+    "country": "Japan",
+    "mileage_KM": "188121",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Sold",
+    "price_EUR": "54668",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Classic",
+      "JDM",
+      "V8"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Nissan-300ZX-Z31-1970-1.avif"
+  },
+  {
+    "id": 76,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": "1978",
+    "engine": "I4",
+    "drivetrain": "AWD",
+    "power_HP": "514",
+    "country": "United Kingdom",
+    "mileage_KM": "202743",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "98263",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "JDM",
+      "Italian",
+      "Collector"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-F40-1978-1.avif"
+  },
+  {
+    "id": 77,
+    "brand": "BMW",
+    "model": "E30 M3",
+    "year": "1979",
+    "engine": "V8",
+    "drivetrain": "RWD",
+    "power_HP": "324",
+    "country": "United States",
+    "mileage_KM": "39638",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "266205",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Classic",
+      "Manual",
+      "V8",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E30-M3-1979-1.avif"
+  },
+  {
+    "id": 78,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": "1962",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "235",
+    "country": "United States",
+    "mileage_KM": "174886",
+    "condition": "Project",
+    "body": "Coupe",
+    "availabilty": "Sold",
+    "price_EUR": "168221",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "German",
+      "Rare",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-911-Carrera-1962-1.avif"
+  },
+  {
+    "id": 79,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1974",
+    "engine": "I4",
+    "drivetrain": "FWD",
+    "power_HP": "207",
+    "country": "Japan",
+    "mileage_KM": "33941",
+    "condition": "Driver",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "30601",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "V8",
+      "Classic",
+      "Manual"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1974-1.avif"
+  },
+  {
+    "id": 80,
+    "brand": "BMW",
+    "model": "2002",
+    "year": "1970",
+    "engine": "Flat-6",
+    "drivetrain": "FWD",
+    "power_HP": "233",
+    "country": "Japan",
+    "mileage_KM": "137568",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "220508",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "Italian",
+      "Restored",
+      "Rally"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-2002-1970-1.avif"
+  },
+  {
+    "id": 81,
+    "brand": "Mercedes-Benz",
+    "model": "190E",
+    "year": "1980",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "517",
+    "country": "United States",
+    "mileage_KM": "159167",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "85476",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "Classic",
+      "Collector",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-190E-1980-1.avif"
+  },
+  {
+    "id": 82,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1976",
+    "engine": "Flat-6",
+    "drivetrain": "RWD",
+    "power_HP": "309",
+    "country": "Japan",
+    "mileage_KM": "122536",
+    "condition": "Driver",
+    "body": "Sedan",
+    "availabilty": "Available: 5",
+    "price_EUR": "157822",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Classic",
+      "Restored",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1976-1.avif"
+  },
+  {
+    "id": 83,
+    "brand": "BMW",
+    "model": "E30 M3",
+    "year": "1962",
+    "engine": "I6",
+    "drivetrain": "AWD",
+    "power_HP": "163",
+    "country": "United Kingdom",
+    "mileage_KM": "82600",
+    "condition": "Concours",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "38102",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "Manual",
+      "Restored",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E30-M3-1962-1.avif"
+  },
+  {
+    "id": 84,
+    "brand": "Ferrari",
+    "model": "250 GT",
+    "year": "1950",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "414",
+    "country": "Japan",
+    "mileage_KM": "110957",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "228180",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rare",
+      "Manual",
+      "Restored",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ferrari-250-GT-1950-1.avif"
+  },
+  {
+    "id": 85,
+    "brand": "Mercedes-Benz",
+    "model": "SL 560",
+    "year": "1979",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "290",
+    "country": "Japan",
+    "mileage_KM": "142353",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "297732",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "Collector",
+      "Italian",
+      "Restored"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-SL-560-1979-1.avif"
+  },
+  {
+    "id": 86,
+    "brand": "BMW",
+    "model": "E28 535i",
+    "year": "1959",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "191",
+    "country": "United States",
+    "mileage_KM": "32163",
+    "condition": "Restored",
+    "body": "Hatchback",
+    "availabilty": "Sold",
+    "price_EUR": "245217",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Restored",
+      "Classic",
+      "Italian",
+      "JDM"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E28-535i-1959-1.avif"
+  },
+  {
+    "id": 87,
+    "brand": "BMW",
+    "model": "E24 635CSi",
+    "year": "1985",
+    "engine": "V6",
+    "drivetrain": "RWD",
+    "power_HP": "221",
+    "country": "Italy",
+    "mileage_KM": "45883",
+    "condition": "Restored",
+    "body": "Hatchback",
+    "availabilty": "Sold",
+    "price_EUR": "88474",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "Restored",
+      "JDM",
+      "German"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E24-635CSi-1985-1.avif"
+  },
+  {
+    "id": 88,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1965",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "190",
+    "country": "Germany",
+    "mileage_KM": "243755",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "262719",
+    "rating": "3",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "JDM",
+      "Rare",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1965-1.avif"
+  },
+  {
+    "id": 89,
+    "brand": "Mercedes-Benz",
+    "model": "SEC 500",
+    "year": "1965",
+    "engine": "I4",
+    "drivetrain": "FWD",
+    "power_HP": "146",
+    "country": "Germany",
+    "mileage_KM": "127489",
+    "condition": "Project",
+    "body": "Sedan",
+    "availabilty": "Sold",
+    "price_EUR": "265704",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "V8",
+      "German",
+      "Collector",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Mercedes-Benz-SEC-500-1965-1.avif"
+  },
+  {
+    "id": 90,
+    "brand": "Ford",
+    "model": "Mustang Fastback",
+    "year": "1977",
+    "engine": "I6",
+    "drivetrain": "AWD",
+    "power_HP": "105",
+    "country": "Japan",
+    "mileage_KM": "71037",
+    "condition": "Concours",
+    "body": "Sedan",
+    "availabilty": "Available: 4",
+    "price_EUR": "73056",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Restored",
+      "Rare",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Mustang-Fastback-1977-1.avif"
+  },
+  {
+    "id": 91,
+    "brand": "BMW",
+    "model": "E30 M3",
+    "year": "1989",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "108",
+    "country": "Italy",
+    "mileage_KM": "226990",
+    "condition": "Concours",
+    "body": "Hatchback",
+    "availabilty": "Available: 2",
+    "price_EUR": "258239",
+    "rating": "1",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "Italian",
+      "Collector",
+      "Restored"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-E30-M3-1989-1.avif"
+  },
+  {
+    "id": 92,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1985",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "394",
+    "country": "United Kingdom",
+    "mileage_KM": "137129",
+    "condition": "Driver",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "157520",
+    "rating": "3",
+    "seller": "Classic Cars EU",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "German",
+      "Collector",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1985-1.avif"
+  },
+  {
+    "id": 93,
+    "brand": "Porsche",
+    "model": "356",
+    "year": "1973",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "233",
+    "country": "Germany",
+    "mileage_KM": "70725",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Available: 5",
+    "price_EUR": "188422",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "Collector",
+      "Manual",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-356-1973-1.avif"
+  },
+  {
+    "id": 94,
+    "brand": "Toyota",
+    "model": "MR2 AW11",
+    "year": "1952",
+    "engine": "I4",
+    "drivetrain": "RWD",
+    "power_HP": "306",
+    "country": "Germany",
+    "mileage_KM": "27208",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Sold",
+    "price_EUR": "265373",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Manual",
+      "Collector",
+      "Italian",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Toyota-MR2-AW11-1952-1.avif"
+  },
+  {
+    "id": 95,
+    "brand": "BMW",
+    "model": "2002",
+    "year": "1974",
+    "engine": "V6",
+    "drivetrain": "AWD",
+    "power_HP": "237",
+    "country": "United States",
+    "mileage_KM": "203903",
+    "condition": "Restored",
+    "body": "Convertible",
+    "availabilty": "Reserved",
+    "price_EUR": "58380",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "Collector",
+      "Rally",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/BMW-2002-1974-1.avif"
+  },
+  {
+    "id": 96,
+    "brand": "Jaguar",
+    "model": "XJ6",
+    "year": "1973",
+    "engine": "V8",
+    "drivetrain": "FWD",
+    "power_HP": "116",
+    "country": "United States",
+    "mileage_KM": "87371",
+    "condition": "Concours",
+    "body": "Hatchback",
+    "availabilty": "Available: 5",
+    "price_EUR": "282023",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Rally",
+      "V8",
+      "German",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Jaguar-XJ6-1973-1.avif"
+  },
+  {
+    "id": 97,
+    "brand": "Porsche",
+    "model": "928 S4",
+    "year": "1971",
+    "engine": "V6",
+    "drivetrain": "FWD",
+    "power_HP": "172",
+    "country": "Germany",
+    "mileage_KM": "233990",
+    "condition": "Project",
+    "body": "Convertible",
+    "availabilty": "Available: 2",
+    "price_EUR": "212637",
+    "rating": "2",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Italian",
+      "JDM",
+      "Manual",
+      "Rare"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-928-S4-1971-1.avif"
+  },
+  {
+    "id": 98,
+    "brand": "Ford",
+    "model": "GT40",
+    "year": "1989",
+    "engine": "Flat-6",
+    "drivetrain": "AWD",
+    "power_HP": "217",
+    "country": "United Kingdom",
+    "mileage_KM": "162554",
+    "condition": "Driver",
+    "body": "Coupe",
+    "availabilty": "Reserved",
+    "price_EUR": "34655",
+    "rating": "1",
+    "seller": "Classic Cars EU",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "German",
+      "JDM",
+      "Manual",
+      "Classic"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-GT40-1989-1.avif"
+  },
+  {
+    "id": 99,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": "1957",
+    "engine": "I6",
+    "drivetrain": "FWD",
+    "power_HP": "506",
+    "country": "United Kingdom",
+    "mileage_KM": "24400",
+    "condition": "Restored",
+    "body": "Sedan",
+    "availabilty": "Available: 5",
+    "price_EUR": "221588",
+    "rating": "5",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "Collector",
+      "JDM",
+      "Rally",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Porsche-911-Carrera-1957-1.avif"
+  },
+  {
+    "id": 100,
+    "brand": "Ford",
+    "model": "Sierra Cosworth",
+    "year": "1951",
+    "engine": "I6",
+    "drivetrain": "RWD",
+    "power_HP": "180",
+    "country": "United States",
+    "mileage_KM": "73565",
+    "condition": "Restored",
+    "body": "Coupe",
+    "availabilty": "Available: 2",
+    "price_EUR": "106642",
+    "rating": "4",
+    "seller": "Classic Car Garage",
+    "transmission": [
+      "Manual",
+      "Semi-automatic",
+      "Automatic"
+    ],
+    "tags": [
+      "JDM",
+      "Restored",
+      "Collector",
+      "Italian"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "image_link": "/images/test-sites-cars/Ford-Sierra-Cosworth-1951-1.avif"
+  }
+]
