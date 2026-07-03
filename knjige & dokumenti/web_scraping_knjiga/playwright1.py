@@ -1,0 +1,12 @@
+from playwright.sync_api import sync_playwright
+
+BASE_URL = 'https://autbor.com/example3.html'
+
+with sync_playwright() as playwright:
+    browser = playwright.chromium.launch(headless=False, slow_mo=250)
+    page = browser.new_page()
+    page.goto(BASE_URL)
+    print(page.title())
+    page.locator("[value='Fake Button']").click()
+    browser.close()
+
