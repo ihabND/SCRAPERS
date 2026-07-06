@@ -9,10 +9,5 @@ with sync_playwright() as playwright:
     page.goto(BASE_URL)
     print(page.title())
     page.locator("[class='theme-toggle']").click()
-    page.locator("[class='theme-toggle']").click()
-    page.locator("[class='theme-toggle']").click()
-    page.locator("[class='theme-toggle']").click()
-    page.locator("[class='theme-toggle']").click()
-    page.locator("[class='theme-toggle']").click()
     browser.close()
 

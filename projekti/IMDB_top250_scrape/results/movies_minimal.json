@@ -1,0 +1,37 @@
+[
+  {
+    "rank": 1,
+    "title": "The Shawshank Redemption",
+    "year": "1994"
+  },
+  {
+    "rank": 2,
+    "title": "The Godfather",
+    "year": "1972"
+  },
+  {
+    "rank": 3,
+    "title": "The Dark Knight",
+    "year": "2008"
+  },
+  {
+    "rank": 4,
+    "title": "The Godfather Part II",
+    "year": "1974"
+  },
+  {
+    "rank": 5,
+    "title": "12 Angry Men",
+    "year": "1957"
+  },
+  {
+    "rank": 6,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003"
+  },
+  {
+    "rank": 7,
+    "title": "Schindler&apos;s List",
+    "year": "1994"
+  }
+]
